@@ -36,14 +36,14 @@ module.exports = {
 // 			resolve: 'gatsby-plugin-snipcart',
 // 			options: {
 // 				apiKey: process.env.SNIPCART_KEY,
-//         autopop: true,
+        // autopop: true,
 // 			}
 // 		},
 {
   resolve: 'gatsby-plugin-snipcartv3',
   options: {
     apiKey: process.env.SNIPCART_KEY,
-    autopop: true,
+    // autopop: true,
   }
 },`gatsby-plugin-netlify`,
 ],
