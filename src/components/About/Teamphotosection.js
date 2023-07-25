@@ -11,7 +11,7 @@ export default function Teamphotosection() {
     <img src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&w=400" class="card-img-top" alt="..."/>
     <div class="card-body">
       <h5 class="card-title">Design Team</h5>
-      <p class="card-text">One of the best design teams in the world. Design Team@cSelect promises you ease in navigating through the site. The toggler menu button feature is there to make things easier for you.</p>
+      <p class="card-text">One of the best design teams in the world. Design Team@cSelect promises you ease in navigating through the site. The toggler menu button feature is there to make things easier for you. cSelect can be accessed on phone as well owing to its responsiveness.</p>
       <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
     </div>
   </div>
